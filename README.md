@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vince1444
 - 👀 I’m interested in web development and design
-- 🌱 I’m currently learning Django and (hopefully soon) accessibility
+- 🌱 I’m currently learning Django and website accessibility
 - 💻 Check out my website! https://vince1444.github.io/
 
 <!---
