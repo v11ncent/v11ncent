@@ -5,9 +5,9 @@ Have a great day :)
 
 ---
 
-## Skills that I'm confident in
+## Tools and Languages I use pretty much every day
 
-[![My Languages & Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma,react&theme=dark)](https://skillicons.dev)
+[![My Languages & Skills](https://skillicons.dev/icons?i=figma,html,css,sass,js,react&theme=dark)](https://skillicons.dev)
 
 ## Socials
 
