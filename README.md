@@ -1,7 +1,14 @@
+# Hey there 🙂
+
 Hello, world! I'm Vince, a Computer Science senior at Rowan University, and I love creating websites from start to finish. This includes the design, development, and everything in between. My super power is that I'm a CSS geek (lol). Currently, I'm learning about design systems, component-driven design, and accessibility!
 Have a great day :)
 
-<!---
-vince1444/vince1444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Skills that I'm confident in
+
+[![My Languages & Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma,react&theme=dark)](https://skillicons.dev)
+
+## Socials
+
+[![Codepen](https://img.shields.io/badge/codepen-white?&style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vikramcodes) [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vince1444/)
