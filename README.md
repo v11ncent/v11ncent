@@ -1,6 +1,6 @@
 # Hey there 🙂
 
-Hello, world! I'm Vince, a Computer Science senior at Rowan University, and I love creating websites from start to finish. This includes the design, development, and everything in between. My super power is that I'm a CSS geek (lol). Currently, I'm learning about design systems, component-driven design, and accessibility!
+I'm Vince, a Computer Science senior at Rowan University, and I love creating websites from start to finish. This includes the design, development, and everything in between. My super power is that I'm a CSS geek (lol). Currently, I'm learning about design systems, component-driven design, and accessibility!
 Have a great day :)
 
 ---
