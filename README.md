@@ -11,4 +11,5 @@ Have a great day :)
 
 ## Socials
 
-[![Codepen](https://img.shields.io/badge/codepen-white?&style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vikramcodes) [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vince1444/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vince1444/)
+[![Codepen](https://img.shields.io/badge/codepen-white?&style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vince1444) 
