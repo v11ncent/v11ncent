@@ -4,7 +4,7 @@ I love creating beautiful and accessible websites using UI/UX principles, HTML, 
 
 ## Tools and languages I use pretty much every day
 
-[![Tools and languages I use daily](https://skillicons.dev/icons?i=figma,html,css,sass,js,react&theme=dark)](https://skillicons.dev)
+[![Tools and languages I use daily](https://skillicons.dev/icons?i=photoshop,figma,html,css,sass,js,react&theme=dark)](https://skillicons.dev)
 
 ## Socials
 
