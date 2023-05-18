@@ -6,8 +6,6 @@ I love creating beautiful and accessible websites using UI/UX principles, HTML, 
 
 [![Tools and languages I use daily](https://skillicons.dev/icons?i=xd,photoshop,figma,html,css,sass,js,react&theme=dark)](https://skillicons.dev)
 
-[![My top GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v11ncent)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Socials
 
 [![My LinkedIn profile](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vince1444/)
