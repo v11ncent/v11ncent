@@ -1,6 +1,6 @@
 # Hey there 🙂
 
-I love creating beautiful and accessible websites using UI/UX principles, HTML, CSS, and JavaScript
+I love creating beautiful and accessible websites using UI/UX principles, HTML, CSS, and JavaScript.
 
 ## Tools and languages I use pretty much every day
 
