@@ -4,7 +4,7 @@ I love creating beautiful & performant websites (seriously).
 
 ## Tools and languages I use pretty much every day
 
-[![Tools and languages I use daily](https://skillicons.dev/icons?i=xd,photoshop,figma,html,css,sass,js,react&theme=dark)](https://skillicons.dev)
+[![Tools and languages I use daily](https://skillicons.dev/icons?i=ai,photoshop,figma,html,css,sass,js,wp&theme=dark)](https://skillicons.dev)
 
 ## Socials
 
